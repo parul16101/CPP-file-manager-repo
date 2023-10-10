@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/paruldamahe/Desktop/CPPfilemanager/CPP-File-Manager/samples/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DNDEBUG -I/Users/paruldamahe/Desktop/CPPfilemanager/CPP-File-Manager/samples/../include -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.5 -o CMakeFiles/fmanager.dir/sample.cpp.o -c /Users/paruldamahe/Desktop/CPPfilemanager/CPP-File-Manager/samples/sample.cpp",
+  "file": "/Users/paruldamahe/Desktop/CPPfilemanager/CPP-File-Manager/samples/sample.cpp",
+  "output": "CMakeFiles/fmanager.dir/sample.cpp.o"
+}
+]

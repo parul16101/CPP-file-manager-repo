@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/paruldamahe/Desktop/CPPfilemanager/CPP-File-Manager/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/paruldamahe/Desktop/CPPfilemanager/CPP-File-Manager/include -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.5 -o CMakeFiles/cpp-file-manager.dir/src/FileManager.cpp.o -c /Users/paruldamahe/Desktop/CPPfilemanager/CPP-File-Manager/src/FileManager.cpp",
+  "file": "/Users/paruldamahe/Desktop/CPPfilemanager/CPP-File-Manager/src/FileManager.cpp",
+  "output": "CMakeFiles/cpp-file-manager.dir/src/FileManager.cpp.o"
+}
+]
